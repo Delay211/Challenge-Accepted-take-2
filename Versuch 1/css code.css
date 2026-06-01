@@ -1,0 +1,13 @@
+        body{
+            background-color:black
+        }
+        h1{
+          color: blueviolet;
+        }
+        p{
+         color:rgb(51, 204, 51) ;
+        }
+        button{
+            background-color: black;
+            color: blueviolet;
+        }
